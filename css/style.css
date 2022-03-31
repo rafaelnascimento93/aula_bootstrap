@@ -1,0 +1,33 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+     background-color: #1FA863 !important; /* o código !important força a essa linha de código */
+}
+
+.quem-somos{
+    background-color: aquamarine;
+    
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: royalblue;
+}
+
+.imgtime{
+    padding-top: 10px;
+}
+
+.margin2{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
